@@ -1,0 +1,11 @@
+pandas 
+numpy 
+matplotlib
+ffn
+scipy
+datetime
+seaborn
+matplotlib.pyplot
+plotly.express 
+plotly.graph_objects 
+streamlit
