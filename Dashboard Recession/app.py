@@ -37,15 +37,11 @@ df_asset.index = df_asset.index.date
 
 
 
-tab0 , tab1, tab2 = st.tabs(["Recession Indicator","EVENT ANALYSIS", "ASSET BEHAVIOR"])
+tab1, tab2 = st.tabs(["Recession Indicator","EVENT ANALYSIS", "ASSET BEHAVIOR"])
 
 
 
 
-
-with tab0:
-    st.title('Recession Indicator :')
-    st.write('Tab นี้เราสร้างมาเพื่อสังเกตพฤติกรรมของสินทรัพย์เมื่อเกิดเหตุถการ์ Recession ในอดีต:')
 
 
 
